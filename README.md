@@ -12,4 +12,5 @@ The project includes a four-layer architecture covering image capture, back-end 
 
 Connect with us:
 https://www.linkedin.com/in/soheil-sardari
+
 https://www.linkedin.com/in/alireza-aghaahmadi-3b1650211/
