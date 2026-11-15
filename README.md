@@ -11,6 +11,7 @@ The proposed system analyzes production-line images to detect visible defects, i
 The project includes a four-layer architecture covering image capture, back-end processing, AI models, and operational dashboards. Its goal is to improve inspection consistency, support faster quality decisions, and automate documentation while maintaining traceability for quality assurance teams.
 
 Connect with us:
+
 https://www.linkedin.com/in/soheil-sardari
 
 https://www.linkedin.com/in/alireza-aghaahmadi-3b1650211/
