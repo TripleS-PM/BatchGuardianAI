@@ -1,6 +1,7 @@
 # BatchGuardianAI
 
 https://triples-pm.github.io/BatchGuardianAI/
+
 Interactive concept prototype exploring AI-native visual quality inspection in biopharmaceutical manufacturing, using simulated inspection data and workflows.
 
 BatchGuardian AI is a computer vision project designed to support quality control in biopharmaceutical manufacturing, focusing on sterile fill-finish and labeling, serialization, and packaging.
